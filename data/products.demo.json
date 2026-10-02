@@ -1,0 +1,880 @@
+[
+  {
+    "id": "product-01",
+    "name": "Camiseta Essencial",
+    "category": "tops",
+    "occasions": [
+      "daily"
+    ],
+    "priceInCents": 7990,
+    "isDemonstrative": true,
+    "description": "Camiseta clara de manga curta e gola redonda para composições do dia a dia.",
+    "image": {
+      "src": "assets/products/product-01.webp",
+      "alt": "Camiseta Essencial em fotografia demonstrativa de catálogo.",
+      "width": 1024,
+      "height": 1536,
+      "objectPosition": "50% 50%"
+    },
+    "imageVariants": [
+      {
+        "path": "assets/products/product-01-480.webp",
+        "width": 480,
+        "height": 720,
+        "bytes": 5586
+      },
+      {
+        "path": "assets/products/product-01-768.webp",
+        "width": 768,
+        "height": 1152,
+        "bytes": 12552
+      },
+      {
+        "path": "assets/products/product-01-1024.webp",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 22768
+      }
+    ],
+    "variants": [
+      {
+        "id": "product-01-p",
+        "colorName": "Off-white",
+        "colorHex": "#F4F0E6",
+        "size": "P",
+        "imageSrc": "assets/products/product-01.webp"
+      },
+      {
+        "id": "product-01-m",
+        "colorName": "Off-white",
+        "colorHex": "#F4F0E6",
+        "size": "M",
+        "imageSrc": "assets/products/product-01.webp"
+      },
+      {
+        "id": "product-01-g",
+        "colorName": "Off-white",
+        "colorHex": "#F4F0E6",
+        "size": "G",
+        "imageSrc": "assets/products/product-01.webp"
+      },
+      {
+        "id": "product-01-gg",
+        "colorName": "Off-white",
+        "colorHex": "#F4F0E6",
+        "size": "GG",
+        "imageSrc": "assets/products/product-01.webp"
+      }
+    ]
+  },
+  {
+    "id": "product-02",
+    "name": "Blusa Trama",
+    "category": "tops",
+    "occasions": [
+      "daily",
+      "work",
+      "going-out"
+    ],
+    "priceInCents": 8990,
+    "isDemonstrative": true,
+    "description": "Blusa vinho com textura canelada e decote arredondado.",
+    "image": {
+      "src": "assets/products/product-02.webp",
+      "alt": "Blusa Trama em fotografia demonstrativa de catálogo.",
+      "width": 1024,
+      "height": 1536,
+      "objectPosition": "50% 50%"
+    },
+    "imageVariants": [
+      {
+        "path": "assets/products/product-02-480.webp",
+        "width": 480,
+        "height": 720,
+        "bytes": 22172
+      },
+      {
+        "path": "assets/products/product-02-768.webp",
+        "width": 768,
+        "height": 1152,
+        "bytes": 59218
+      },
+      {
+        "path": "assets/products/product-02-1024.webp",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 107120
+      }
+    ],
+    "variants": [
+      {
+        "id": "product-02-p",
+        "colorName": "Vinho",
+        "colorHex": "#873448",
+        "size": "P",
+        "imageSrc": "assets/products/product-02.webp"
+      },
+      {
+        "id": "product-02-m",
+        "colorName": "Vinho",
+        "colorHex": "#873448",
+        "size": "M",
+        "imageSrc": "assets/products/product-02.webp"
+      },
+      {
+        "id": "product-02-g",
+        "colorName": "Vinho",
+        "colorHex": "#873448",
+        "size": "G",
+        "imageSrc": "assets/products/product-02.webp"
+      },
+      {
+        "id": "product-02-gg",
+        "colorName": "Vinho",
+        "colorHex": "#873448",
+        "size": "GG",
+        "imageSrc": "assets/products/product-02.webp"
+      }
+    ]
+  },
+  {
+    "id": "product-03",
+    "name": "Camisa Leve",
+    "category": "tops",
+    "occasions": [
+      "daily",
+      "work"
+    ],
+    "priceInCents": 15990,
+    "isDemonstrative": true,
+    "description": "Camisa clara de manga longa, gola simples e fechamento por botões.",
+    "image": {
+      "src": "assets/products/product-03.webp",
+      "alt": "Camisa Leve em fotografia demonstrativa de catálogo.",
+      "width": 1024,
+      "height": 1536,
+      "objectPosition": "50% 50%"
+    },
+    "imageVariants": [
+      {
+        "path": "assets/products/product-03-480.webp",
+        "width": 480,
+        "height": 720,
+        "bytes": 9184
+      },
+      {
+        "path": "assets/products/product-03-768.webp",
+        "width": 768,
+        "height": 1152,
+        "bytes": 18698
+      },
+      {
+        "path": "assets/products/product-03-1024.webp",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 30822
+      }
+    ],
+    "variants": [
+      {
+        "id": "product-03-p",
+        "colorName": "Off-white",
+        "colorHex": "#F4F0E6",
+        "size": "P",
+        "imageSrc": "assets/products/product-03.webp"
+      },
+      {
+        "id": "product-03-m",
+        "colorName": "Off-white",
+        "colorHex": "#F4F0E6",
+        "size": "M",
+        "imageSrc": "assets/products/product-03.webp"
+      },
+      {
+        "id": "product-03-g",
+        "colorName": "Off-white",
+        "colorHex": "#F4F0E6",
+        "size": "G",
+        "imageSrc": "assets/products/product-03.webp"
+      },
+      {
+        "id": "product-03-gg",
+        "colorName": "Off-white",
+        "colorHex": "#F4F0E6",
+        "size": "GG",
+        "imageSrc": "assets/products/product-03.webp"
+      }
+    ]
+  },
+  {
+    "id": "product-04",
+    "name": "Jeans Reto",
+    "category": "denim",
+    "occasions": [
+      "daily",
+      "going-out"
+    ],
+    "priceInCents": 18990,
+    "isDemonstrative": true,
+    "description": "Jeans azul de cintura alta e corte reto, sem rasgos.",
+    "image": {
+      "src": "assets/products/product-04.webp",
+      "alt": "Jeans Reto em fotografia demonstrativa de catálogo.",
+      "width": 1024,
+      "height": 1536,
+      "objectPosition": "50% 50%"
+    },
+    "imageVariants": [
+      {
+        "path": "assets/products/product-04-480.webp",
+        "width": 480,
+        "height": 720,
+        "bytes": 26196
+      },
+      {
+        "path": "assets/products/product-04-768.webp",
+        "width": 768,
+        "height": 1152,
+        "bytes": 82232
+      },
+      {
+        "path": "assets/products/product-04-1024.webp",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 172212
+      }
+    ],
+    "variants": [
+      {
+        "id": "product-04-36",
+        "colorName": "Azul médio",
+        "colorHex": "#5B7892",
+        "size": "36",
+        "imageSrc": "assets/products/product-04.webp"
+      },
+      {
+        "id": "product-04-38",
+        "colorName": "Azul médio",
+        "colorHex": "#5B7892",
+        "size": "38",
+        "imageSrc": "assets/products/product-04.webp"
+      },
+      {
+        "id": "product-04-40",
+        "colorName": "Azul médio",
+        "colorHex": "#5B7892",
+        "size": "40",
+        "imageSrc": "assets/products/product-04.webp"
+      },
+      {
+        "id": "product-04-42",
+        "colorName": "Azul médio",
+        "colorHex": "#5B7892",
+        "size": "42",
+        "imageSrc": "assets/products/product-04.webp"
+      },
+      {
+        "id": "product-04-44",
+        "colorName": "Azul médio",
+        "colorHex": "#5B7892",
+        "size": "44",
+        "imageSrc": "assets/products/product-04.webp"
+      }
+    ],
+    "detailImage": {
+      "src": "assets/details/detail-denim.webp",
+      "alt": "Detalhe de bolso e costura de jeans azul.",
+      "isIllustrative": true
+    }
+  },
+  {
+    "id": "product-05",
+    "name": "Jeans Amplo",
+    "category": "denim",
+    "occasions": [
+      "daily"
+    ],
+    "priceInCents": 19990,
+    "isDemonstrative": true,
+    "description": "Jeans azul claro com pernas amplas e cintura alta.",
+    "image": {
+      "src": "assets/products/product-05.webp",
+      "alt": "Jeans Amplo em fotografia demonstrativa de catálogo.",
+      "width": 1024,
+      "height": 1536,
+      "objectPosition": "50% 50%"
+    },
+    "imageVariants": [
+      {
+        "path": "assets/products/product-05-480.webp",
+        "width": 480,
+        "height": 720,
+        "bytes": 29658
+      },
+      {
+        "path": "assets/products/product-05-768.webp",
+        "width": 768,
+        "height": 1152,
+        "bytes": 98462
+      },
+      {
+        "path": "assets/products/product-05-1024.webp",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 207976
+      }
+    ],
+    "variants": [
+      {
+        "id": "product-05-36",
+        "colorName": "Azul claro",
+        "colorHex": "#94ABBC",
+        "size": "36",
+        "imageSrc": "assets/products/product-05.webp"
+      },
+      {
+        "id": "product-05-38",
+        "colorName": "Azul claro",
+        "colorHex": "#94ABBC",
+        "size": "38",
+        "imageSrc": "assets/products/product-05.webp"
+      },
+      {
+        "id": "product-05-40",
+        "colorName": "Azul claro",
+        "colorHex": "#94ABBC",
+        "size": "40",
+        "imageSrc": "assets/products/product-05.webp"
+      },
+      {
+        "id": "product-05-42",
+        "colorName": "Azul claro",
+        "colorHex": "#94ABBC",
+        "size": "42",
+        "imageSrc": "assets/products/product-05.webp"
+      },
+      {
+        "id": "product-05-44",
+        "colorName": "Azul claro",
+        "colorHex": "#94ABBC",
+        "size": "44",
+        "imageSrc": "assets/products/product-05.webp"
+      }
+    ],
+    "detailImage": {
+      "src": "assets/details/detail-denim.webp",
+      "alt": "Detalhe de bolso e costura de jeans azul.",
+      "isIllustrative": true
+    }
+  },
+  {
+    "id": "product-06",
+    "name": "Vestido Horizonte",
+    "category": "dresses",
+    "occasions": [
+      "daily",
+      "going-out"
+    ],
+    "priceInCents": 22990,
+    "isDemonstrative": true,
+    "description": "Vestido midi verde, sem mangas, com cintura marcada e saia ampla.",
+    "image": {
+      "src": "assets/products/product-06.webp",
+      "alt": "Vestido Horizonte em fotografia demonstrativa de catálogo.",
+      "width": 1024,
+      "height": 1536,
+      "objectPosition": "50% 50%"
+    },
+    "imageVariants": [
+      {
+        "path": "assets/products/product-06-480.webp",
+        "width": 480,
+        "height": 720,
+        "bytes": 7250
+      },
+      {
+        "path": "assets/products/product-06-768.webp",
+        "width": 768,
+        "height": 1152,
+        "bytes": 16622
+      },
+      {
+        "path": "assets/products/product-06-1024.webp",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 33042
+      }
+    ],
+    "variants": [
+      {
+        "id": "product-06-p",
+        "colorName": "Sálvia",
+        "colorHex": "#87937B",
+        "size": "P",
+        "imageSrc": "assets/products/product-06.webp"
+      },
+      {
+        "id": "product-06-m",
+        "colorName": "Sálvia",
+        "colorHex": "#87937B",
+        "size": "M",
+        "imageSrc": "assets/products/product-06.webp"
+      },
+      {
+        "id": "product-06-g",
+        "colorName": "Sálvia",
+        "colorHex": "#87937B",
+        "size": "G",
+        "imageSrc": "assets/products/product-06.webp"
+      },
+      {
+        "id": "product-06-gg",
+        "colorName": "Sálvia",
+        "colorHex": "#87937B",
+        "size": "GG",
+        "imageSrc": "assets/products/product-06.webp"
+      }
+    ]
+  },
+  {
+    "id": "product-07",
+    "name": "Vestido Movimento",
+    "category": "dresses",
+    "occasions": [
+      "daily",
+      "going-out"
+    ],
+    "priceInCents": 17990,
+    "isDemonstrative": true,
+    "description": "Vestido vinho casual com mangas curtas e corte solto.",
+    "image": {
+      "src": "assets/products/product-07.webp",
+      "alt": "Vestido Movimento em fotografia demonstrativa de catálogo.",
+      "width": 1024,
+      "height": 1536,
+      "objectPosition": "50% 50%"
+    },
+    "imageVariants": [
+      {
+        "path": "assets/products/product-07-480.webp",
+        "width": 480,
+        "height": 720,
+        "bytes": 10794
+      },
+      {
+        "path": "assets/products/product-07-768.webp",
+        "width": 768,
+        "height": 1152,
+        "bytes": 23790
+      },
+      {
+        "path": "assets/products/product-07-1024.webp",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 43558
+      }
+    ],
+    "variants": [
+      {
+        "id": "product-07-p",
+        "colorName": "Vinho",
+        "colorHex": "#873448",
+        "size": "P",
+        "imageSrc": "assets/products/product-07.webp"
+      },
+      {
+        "id": "product-07-m",
+        "colorName": "Vinho",
+        "colorHex": "#873448",
+        "size": "M",
+        "imageSrc": "assets/products/product-07.webp"
+      },
+      {
+        "id": "product-07-g",
+        "colorName": "Vinho",
+        "colorHex": "#873448",
+        "size": "G",
+        "imageSrc": "assets/products/product-07.webp"
+      },
+      {
+        "id": "product-07-gg",
+        "colorName": "Vinho",
+        "colorHex": "#873448",
+        "size": "GG",
+        "imageSrc": "assets/products/product-07.webp"
+      }
+    ]
+  },
+  {
+    "id": "product-08",
+    "name": "Conjunto Brisa",
+    "category": "sets",
+    "occasions": [
+      "daily",
+      "work"
+    ],
+    "priceInCents": 28990,
+    "isDemonstrative": true,
+    "description": "Conjunto bege demonstrativo de camisa de manga curta e calça.",
+    "image": {
+      "src": "assets/products/product-08.webp",
+      "alt": "Conjunto Brisa em fotografia demonstrativa de catálogo.",
+      "width": 1024,
+      "height": 1536,
+      "objectPosition": "50% 50%"
+    },
+    "imageVariants": [
+      {
+        "path": "assets/products/product-08-480.webp",
+        "width": 480,
+        "height": 720,
+        "bytes": 10018
+      },
+      {
+        "path": "assets/products/product-08-768.webp",
+        "width": 768,
+        "height": 1152,
+        "bytes": 26114
+      },
+      {
+        "path": "assets/products/product-08-1024.webp",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 51400
+      }
+    ],
+    "variants": [
+      {
+        "id": "product-08-p",
+        "colorName": "Areia",
+        "colorHex": "#D3C6B4",
+        "size": "P",
+        "imageSrc": "assets/products/product-08.webp"
+      },
+      {
+        "id": "product-08-m",
+        "colorName": "Areia",
+        "colorHex": "#D3C6B4",
+        "size": "M",
+        "imageSrc": "assets/products/product-08.webp"
+      },
+      {
+        "id": "product-08-g",
+        "colorName": "Areia",
+        "colorHex": "#D3C6B4",
+        "size": "G",
+        "imageSrc": "assets/products/product-08.webp"
+      },
+      {
+        "id": "product-08-gg",
+        "colorName": "Areia",
+        "colorHex": "#D3C6B4",
+        "size": "GG",
+        "imageSrc": "assets/products/product-08.webp"
+      }
+    ]
+  },
+  {
+    "id": "product-09",
+    "name": "Conjunto Aurora",
+    "category": "sets",
+    "occasions": [
+      "work",
+      "going-out"
+    ],
+    "priceInCents": 31990,
+    "isDemonstrative": true,
+    "description": "Conjunto rosa seco demonstrativo de colete com botões e calça.",
+    "image": {
+      "src": "assets/products/product-09.webp",
+      "alt": "Conjunto Aurora em fotografia demonstrativa de catálogo.",
+      "width": 1024,
+      "height": 1536,
+      "objectPosition": "50% 50%"
+    },
+    "imageVariants": [
+      {
+        "path": "assets/products/product-09-480.webp",
+        "width": 480,
+        "height": 720,
+        "bytes": 8672
+      },
+      {
+        "path": "assets/products/product-09-768.webp",
+        "width": 768,
+        "height": 1152,
+        "bytes": 18518
+      },
+      {
+        "path": "assets/products/product-09-1024.webp",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 35702
+      }
+    ],
+    "variants": [
+      {
+        "id": "product-09-p",
+        "colorName": "Rosa seco",
+        "colorHex": "#BA8590",
+        "size": "P",
+        "imageSrc": "assets/products/product-09.webp"
+      },
+      {
+        "id": "product-09-m",
+        "colorName": "Rosa seco",
+        "colorHex": "#BA8590",
+        "size": "M",
+        "imageSrc": "assets/products/product-09.webp"
+      },
+      {
+        "id": "product-09-g",
+        "colorName": "Rosa seco",
+        "colorHex": "#BA8590",
+        "size": "G",
+        "imageSrc": "assets/products/product-09.webp"
+      },
+      {
+        "id": "product-09-gg",
+        "colorName": "Rosa seco",
+        "colorHex": "#BA8590",
+        "size": "GG",
+        "imageSrc": "assets/products/product-09.webp"
+      }
+    ]
+  },
+  {
+    "id": "product-10",
+    "name": "Blazer Linha",
+    "category": "tailoring",
+    "occasions": [
+      "work",
+      "going-out"
+    ],
+    "priceInCents": 25990,
+    "isDemonstrative": true,
+    "description": "Blazer claro de manga longa com lapela e dois botões.",
+    "image": {
+      "src": "assets/products/product-10.webp",
+      "alt": "Blazer Linha em fotografia demonstrativa de catálogo.",
+      "width": 1024,
+      "height": 1536,
+      "objectPosition": "50% 50%"
+    },
+    "imageVariants": [
+      {
+        "path": "assets/products/product-10-480.webp",
+        "width": 480,
+        "height": 720,
+        "bytes": 8152
+      },
+      {
+        "path": "assets/products/product-10-768.webp",
+        "width": 768,
+        "height": 1152,
+        "bytes": 15550
+      },
+      {
+        "path": "assets/products/product-10-1024.webp",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 23796
+      }
+    ],
+    "variants": [
+      {
+        "id": "product-10-36",
+        "colorName": "Creme",
+        "colorHex": "#E9DFC9",
+        "size": "36",
+        "imageSrc": "assets/products/product-10.webp"
+      },
+      {
+        "id": "product-10-38",
+        "colorName": "Creme",
+        "colorHex": "#E9DFC9",
+        "size": "38",
+        "imageSrc": "assets/products/product-10.webp"
+      },
+      {
+        "id": "product-10-40",
+        "colorName": "Creme",
+        "colorHex": "#E9DFC9",
+        "size": "40",
+        "imageSrc": "assets/products/product-10.webp"
+      },
+      {
+        "id": "product-10-42",
+        "colorName": "Creme",
+        "colorHex": "#E9DFC9",
+        "size": "42",
+        "imageSrc": "assets/products/product-10.webp"
+      },
+      {
+        "id": "product-10-44",
+        "colorName": "Creme",
+        "colorHex": "#E9DFC9",
+        "size": "44",
+        "imageSrc": "assets/products/product-10.webp"
+      }
+    ],
+    "detailImage": {
+      "src": "assets/details/detail-tailoring.webp",
+      "alt": "Detalhe de lapela, costura e botão de blazer claro.",
+      "isIllustrative": true
+    }
+  },
+  {
+    "id": "product-11",
+    "name": "Calça Ritmo",
+    "category": "tailoring",
+    "occasions": [
+      "work",
+      "going-out"
+    ],
+    "priceInCents": 18990,
+    "isDemonstrative": true,
+    "description": "Calça bege de alfaiataria com pernas amplas e pregas discretas.",
+    "image": {
+      "src": "assets/products/product-11.webp",
+      "alt": "Calça Ritmo em fotografia demonstrativa de catálogo.",
+      "width": 1024,
+      "height": 1536,
+      "objectPosition": "50% 50%"
+    },
+    "imageVariants": [
+      {
+        "path": "assets/products/product-11-480.webp",
+        "width": 480,
+        "height": 720,
+        "bytes": 7446
+      },
+      {
+        "path": "assets/products/product-11-768.webp",
+        "width": 768,
+        "height": 1152,
+        "bytes": 16412
+      },
+      {
+        "path": "assets/products/product-11-1024.webp",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 31782
+      }
+    ],
+    "variants": [
+      {
+        "id": "product-11-36",
+        "colorName": "Areia",
+        "colorHex": "#D3C6B4",
+        "size": "36",
+        "imageSrc": "assets/products/product-11.webp"
+      },
+      {
+        "id": "product-11-38",
+        "colorName": "Areia",
+        "colorHex": "#D3C6B4",
+        "size": "38",
+        "imageSrc": "assets/products/product-11.webp"
+      },
+      {
+        "id": "product-11-40",
+        "colorName": "Areia",
+        "colorHex": "#D3C6B4",
+        "size": "40",
+        "imageSrc": "assets/products/product-11.webp"
+      },
+      {
+        "id": "product-11-42",
+        "colorName": "Areia",
+        "colorHex": "#D3C6B4",
+        "size": "42",
+        "imageSrc": "assets/products/product-11.webp"
+      },
+      {
+        "id": "product-11-44",
+        "colorName": "Areia",
+        "colorHex": "#D3C6B4",
+        "size": "44",
+        "imageSrc": "assets/products/product-11.webp"
+      }
+    ]
+  },
+  {
+    "id": "product-12",
+    "name": "Saia Passo",
+    "category": "tailoring",
+    "occasions": [
+      "daily",
+      "work",
+      "going-out"
+    ],
+    "priceInCents": 16990,
+    "isDemonstrative": true,
+    "description": "Saia midi chocolate com silhueta levemente ampla.",
+    "image": {
+      "src": "assets/products/product-12.webp",
+      "alt": "Saia Passo em fotografia demonstrativa de catálogo.",
+      "width": 1024,
+      "height": 1536,
+      "objectPosition": "50% 50%"
+    },
+    "imageVariants": [
+      {
+        "path": "assets/products/product-12-480.webp",
+        "width": 480,
+        "height": 720,
+        "bytes": 8338
+      },
+      {
+        "path": "assets/products/product-12-768.webp",
+        "width": 768,
+        "height": 1152,
+        "bytes": 22290
+      },
+      {
+        "path": "assets/products/product-12-1024.webp",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 45898
+      }
+    ],
+    "variants": [
+      {
+        "id": "product-12-36",
+        "colorName": "Chocolate",
+        "colorHex": "#6B5048",
+        "size": "36",
+        "imageSrc": "assets/products/product-12.webp"
+      },
+      {
+        "id": "product-12-38",
+        "colorName": "Chocolate",
+        "colorHex": "#6B5048",
+        "size": "38",
+        "imageSrc": "assets/products/product-12.webp"
+      },
+      {
+        "id": "product-12-40",
+        "colorName": "Chocolate",
+        "colorHex": "#6B5048",
+        "size": "40",
+        "imageSrc": "assets/products/product-12.webp"
+      },
+      {
+        "id": "product-12-42",
+        "colorName": "Chocolate",
+        "colorHex": "#6B5048",
+        "size": "42",
+        "imageSrc": "assets/products/product-12.webp"
+      },
+      {
+        "id": "product-12-44",
+        "colorName": "Chocolate",
+        "colorHex": "#6B5048",
+        "size": "44",
+        "imageSrc": "assets/products/product-12.webp"
+      }
+    ]
+  }
+]

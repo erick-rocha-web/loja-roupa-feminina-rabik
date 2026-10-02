@@ -1,0 +1,54 @@
+{
+  "isDemonstrative": true,
+  "unit": "cm",
+  "note": "Exemplo de guia de medidas para demonstrar a interface. Não usar para orientar uma compra real.",
+  "topsAndDresses": [
+    {
+      "size": "P",
+      "bust": 88,
+      "waist": 70
+    },
+    {
+      "size": "M",
+      "bust": 94,
+      "waist": 76
+    },
+    {
+      "size": "G",
+      "bust": 100,
+      "waist": 82
+    },
+    {
+      "size": "GG",
+      "bust": 108,
+      "waist": 90
+    }
+  ],
+  "bottoms": [
+    {
+      "size": "36",
+      "waist": 68,
+      "hip": 94
+    },
+    {
+      "size": "38",
+      "waist": 72,
+      "hip": 98
+    },
+    {
+      "size": "40",
+      "waist": 76,
+      "hip": 102
+    },
+    {
+      "size": "42",
+      "waist": 82,
+      "hip": 108
+    },
+    {
+      "size": "44",
+      "waist": 88,
+      "hip": 114
+    }
+  ]
+}

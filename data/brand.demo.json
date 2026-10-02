@@ -1,0 +1,27 @@
+{
+  "name": "VÉRIA",
+  "demoMode": true,
+  "notice": "Marca fictícia · demonstração de site",
+  "heroTitle": "Vista o seu momento.",
+  "heroDescription": "Peças para combinar de novo, do seu jeito.",
+  "shopContact": null,
+  "address": null,
+  "rabik": {
+    "phone": "5561983645763",
+    "email": "rabik.digital@gmail.com",
+    "message": "Olá! Vi a demonstração de moda feminina da Rabik e quero conversar sobre um site para minha loja de roupas."
+  },
+  "categories": {
+    "tops": "Blusas",
+    "denim": "Jeans",
+    "dresses": "Vestidos",
+    "sets": "Conjuntos",
+    "tailoring": "Alfaiataria"
+  },
+  "occasions": {
+    "daily": "Dia a dia",
+    "work": "Trabalho",
+    "going-out": "Saída"
+  },
+  "productNotice": "Peças e preços ilustrativos. Não há vendas nesta demonstração."
+}

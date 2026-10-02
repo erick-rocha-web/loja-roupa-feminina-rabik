@@ -1,0 +1,694 @@
+{
+  "brand": "VÉRIA",
+  "demoMode": true,
+  "assets": [
+    {
+      "id": "hero-look-a",
+      "role": "editorial",
+      "path": "assets/editorial/hero-look-a.webp",
+      "original": "assets/originals/hero-look-a.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 110120,
+      "alt": "Modelo adulta com camisa clara e jeans reto em arquitetura de tons claros.",
+      "variants": [
+        {
+          "path": "assets/editorial/hero-look-a-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 14158
+        },
+        {
+          "path": "assets/editorial/hero-look-a-768.webp",
+          "width": 768,
+          "height": 512,
+          "bytes": 29708
+        },
+        {
+          "path": "assets/editorial/hero-look-a-1536.webp",
+          "width": 1536,
+          "height": 1024,
+          "bytes": 89552
+        }
+      ],
+      "source": "Imagem gerada por IA com a ferramenta integrada de geração de imagens nesta conversa.",
+      "date": "2026-10-01",
+      "objectPosition": "65% 50%",
+      "relatedProductIds": [
+        "product-03",
+        "product-04"
+      ],
+      "demonstrative": true,
+      "originalSha256": "cf6d6d581879a2657936a8da918ab979c21336ef38ad6054b08d3321a9e02905"
+    },
+    {
+      "id": "hero-look-b",
+      "role": "editorial",
+      "path": "assets/editorial/hero-look-b.webp",
+      "original": "assets/originals/hero-look-b.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 119024,
+      "alt": "Modelo adulta com conjunto de colete e calça em rosa seco.",
+      "variants": [
+        {
+          "path": "assets/editorial/hero-look-b-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 29368
+        },
+        {
+          "path": "assets/editorial/hero-look-b-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 60812
+        },
+        {
+          "path": "assets/editorial/hero-look-b-1024.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 93750
+        }
+      ],
+      "source": "Imagem gerada por IA com a ferramenta integrada de geração de imagens nesta conversa.",
+      "date": "2026-10-01",
+      "objectPosition": "50% 50%",
+      "relatedProductIds": [
+        "product-09"
+      ],
+      "demonstrative": true,
+      "originalSha256": "583068240cafca290660dacc5d667bdc66691bc75345e31e761071aace54549b"
+    },
+    {
+      "id": "occasion-work",
+      "role": "editorial",
+      "path": "assets/editorial/occasion-work.webp",
+      "original": "assets/originals/occasion-work.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 126478,
+      "alt": "Modelo adulta com blazer claro, blusa vinho e calça de alfaiataria bege.",
+      "variants": [
+        {
+          "path": "assets/editorial/occasion-work-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 20616
+        },
+        {
+          "path": "assets/editorial/occasion-work-768.webp",
+          "width": 768,
+          "height": 512,
+          "bytes": 41672
+        },
+        {
+          "path": "assets/editorial/occasion-work-1536.webp",
+          "width": 1536,
+          "height": 1024,
+          "bytes": 107916
+        }
+      ],
+      "source": "Imagem gerada por IA com a ferramenta integrada de geração de imagens nesta conversa.",
+      "date": "2026-10-01",
+      "objectPosition": "50% 50%",
+      "relatedProductIds": [
+        "product-02",
+        "product-10",
+        "product-11"
+      ],
+      "demonstrative": true,
+      "originalSha256": "efda80e2df17ce2ba47df9a23422a07543f5490492f3c0820f2c48aef7142e4d"
+    },
+    {
+      "id": "occasion-weekend",
+      "role": "editorial",
+      "path": "assets/editorial/occasion-weekend.webp",
+      "original": "assets/originals/occasion-weekend.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 226590,
+      "alt": "Modelo adulta com vestido midi verde em pátio claro.",
+      "variants": [
+        {
+          "path": "assets/editorial/occasion-weekend-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 60512
+        },
+        {
+          "path": "assets/editorial/occasion-weekend-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 124206
+        },
+        {
+          "path": "assets/editorial/occasion-weekend-1024.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 188184
+        }
+      ],
+      "source": "Imagem gerada por IA com a ferramenta integrada de geração de imagens nesta conversa.",
+      "date": "2026-10-01",
+      "objectPosition": "50% 50%",
+      "relatedProductIds": [
+        "product-06"
+      ],
+      "demonstrative": true,
+      "originalSha256": "54253b32a72eefdea9d13b739f7863a0fdff3b5c2d8c65284cc907c5a52edadf"
+    },
+    {
+      "id": "product-01",
+      "role": "product",
+      "path": "assets/products/product-01.webp",
+      "original": "assets/originals/product-01.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 30106,
+      "alt": "Camiseta Essencial em fotografia demonstrativa de catálogo.",
+      "variants": [
+        {
+          "path": "assets/products/product-01-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 5586
+        },
+        {
+          "path": "assets/products/product-01-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 12552
+        },
+        {
+          "path": "assets/products/product-01-1024.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 22768
+        }
+      ],
+      "source": "Imagem gerada por IA com a ferramenta integrada de geração de imagens nesta conversa.",
+      "date": "2026-10-01",
+      "objectPosition": "50% 50%",
+      "relatedProductIds": [
+        "product-01"
+      ],
+      "demonstrative": true,
+      "originalSha256": "8a0f6a18ba77782915e66dc1cda75645b47445eefb85d7a164a7af170dae661a"
+    },
+    {
+      "id": "product-02",
+      "role": "product",
+      "path": "assets/products/product-02.webp",
+      "original": "assets/originals/product-02.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 131998,
+      "alt": "Blusa Trama em fotografia demonstrativa de catálogo.",
+      "variants": [
+        {
+          "path": "assets/products/product-02-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 22172
+        },
+        {
+          "path": "assets/products/product-02-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 62238
+        },
+        {
+          "path": "assets/products/product-02-1024.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 107120
+        }
+      ],
+      "source": "Imagem gerada por IA com a ferramenta integrada de geração de imagens nesta conversa.",
+      "date": "2026-10-01",
+      "objectPosition": "50% 50%",
+      "relatedProductIds": [
+        "product-02"
+      ],
+      "demonstrative": true,
+      "originalSha256": "fff4382e56b58443df692fd72f796753a54480e70c45a2838c84b37b45217546"
+    },
+    {
+      "id": "product-03",
+      "role": "product",
+      "path": "assets/products/product-03.webp",
+      "original": "assets/originals/product-03.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 39094,
+      "alt": "Camisa Leve em fotografia demonstrativa de catálogo.",
+      "variants": [
+        {
+          "path": "assets/products/product-03-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 9184
+        },
+        {
+          "path": "assets/products/product-03-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 18698
+        },
+        {
+          "path": "assets/products/product-03-1024.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 30822
+        }
+      ],
+      "source": "Imagem gerada por IA com a ferramenta integrada de geração de imagens nesta conversa.",
+      "date": "2026-10-01",
+      "objectPosition": "50% 50%",
+      "relatedProductIds": [
+        "product-03"
+      ],
+      "demonstrative": true,
+      "originalSha256": "a3059cd30bf35c75d29d0f4e1f2ec899d4c0a944fc6c7807899662419c5a91ab"
+    },
+    {
+      "id": "product-04",
+      "role": "product",
+      "path": "assets/products/product-04.webp",
+      "original": "assets/originals/product-04.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 194504,
+      "alt": "Jeans Reto em fotografia demonstrativa de catálogo.",
+      "variants": [
+        {
+          "path": "assets/products/product-04-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 26196
+        },
+        {
+          "path": "assets/products/product-04-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 82232
+        },
+        {
+          "path": "assets/products/product-04-1024.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 172212
+        }
+      ],
+      "source": "Imagem gerada por IA com a ferramenta integrada de geração de imagens nesta conversa.",
+      "date": "2026-10-01",
+      "objectPosition": "50% 50%",
+      "relatedProductIds": [
+        "product-04"
+      ],
+      "demonstrative": true,
+      "originalSha256": "7552d70b4f7f438beac798b79b3e3316121d1e2c8929aaedd9975baa17b7a0a1"
+    },
+    {
+      "id": "product-05",
+      "role": "product",
+      "path": "assets/products/product-05.webp",
+      "original": "assets/originals/product-05.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 238882,
+      "alt": "Jeans Amplo em fotografia demonstrativa de catálogo.",
+      "variants": [
+        {
+          "path": "assets/products/product-05-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 29658
+        },
+        {
+          "path": "assets/products/product-05-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 98462
+        },
+        {
+          "path": "assets/products/product-05-1024.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 210074
+        }
+      ],
+      "source": "Imagem gerada por IA com a ferramenta integrada de geração de imagens nesta conversa.",
+      "date": "2026-10-01",
+      "objectPosition": "50% 50%",
+      "relatedProductIds": [
+        "product-05"
+      ],
+      "demonstrative": true,
+      "originalSha256": "fe5bb1986356760bb9a12037a724505c1dc21ace4770b98fc26bbd8c54071098"
+    },
+    {
+      "id": "product-06",
+      "role": "product",
+      "path": "assets/products/product-06.webp",
+      "original": "assets/originals/product-06.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 46832,
+      "alt": "Vestido Horizonte em fotografia demonstrativa de catálogo.",
+      "variants": [
+        {
+          "path": "assets/products/product-06-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 7250
+        },
+        {
+          "path": "assets/products/product-06-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 16622
+        },
+        {
+          "path": "assets/products/product-06-1024.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 33042
+        }
+      ],
+      "source": "Imagem gerada por IA com a ferramenta integrada de geração de imagens nesta conversa.",
+      "date": "2026-10-01",
+      "objectPosition": "50% 50%",
+      "relatedProductIds": [
+        "product-06"
+      ],
+      "demonstrative": true,
+      "originalSha256": "0864c5e5934ea8b57ce0b3e97e41e8165c356e91fbc8c242e244ca6a9d8a6e14"
+    },
+    {
+      "id": "product-07",
+      "role": "product",
+      "path": "assets/products/product-07.webp",
+      "original": "assets/originals/product-07.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 57606,
+      "alt": "Vestido Movimento em fotografia demonstrativa de catálogo.",
+      "variants": [
+        {
+          "path": "assets/products/product-07-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 10794
+        },
+        {
+          "path": "assets/products/product-07-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 23790
+        },
+        {
+          "path": "assets/products/product-07-1024.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 43558
+        }
+      ],
+      "source": "Imagem gerada por IA com a ferramenta integrada de geração de imagens nesta conversa.",
+      "date": "2026-10-01",
+      "objectPosition": "50% 50%",
+      "relatedProductIds": [
+        "product-07"
+      ],
+      "demonstrative": true,
+      "originalSha256": "8c6229417910e684c8551ae332319b1bdd37347f8d000f541607ebf7793b2d33"
+    },
+    {
+      "id": "product-08",
+      "role": "product",
+      "path": "assets/products/product-08.webp",
+      "original": "assets/originals/product-08.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 69720,
+      "alt": "Conjunto Brisa em fotografia demonstrativa de catálogo.",
+      "variants": [
+        {
+          "path": "assets/products/product-08-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 10018
+        },
+        {
+          "path": "assets/products/product-08-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 26114
+        },
+        {
+          "path": "assets/products/product-08-1024.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 51400
+        }
+      ],
+      "source": "Imagem gerada por IA com a ferramenta integrada de geração de imagens nesta conversa.",
+      "date": "2026-10-01",
+      "objectPosition": "50% 50%",
+      "relatedProductIds": [
+        "product-08"
+      ],
+      "demonstrative": true,
+      "originalSha256": "8f1a9a7a80e2f9503ade0d564d4a053c9108e42e4d4ab7ddacbba5575ce73254"
+    },
+    {
+      "id": "product-09",
+      "role": "product",
+      "path": "assets/products/product-09.webp",
+      "original": "assets/originals/product-09.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 50164,
+      "alt": "Conjunto Aurora em fotografia demonstrativa de catálogo.",
+      "variants": [
+        {
+          "path": "assets/products/product-09-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 8672
+        },
+        {
+          "path": "assets/products/product-09-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 18518
+        },
+        {
+          "path": "assets/products/product-09-1024.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 43642
+        }
+      ],
+      "source": "Imagem gerada por IA com a ferramenta integrada de geração de imagens nesta conversa.",
+      "date": "2026-10-01",
+      "objectPosition": "50% 50%",
+      "relatedProductIds": [
+        "product-09"
+      ],
+      "demonstrative": true,
+      "originalSha256": "92df06ee447f034183dc7866064dc4619c88712668f26e81f158258334dfbb7c"
+    },
+    {
+      "id": "product-10",
+      "role": "product",
+      "path": "assets/products/product-10.webp",
+      "original": "assets/originals/product-10.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 29082,
+      "alt": "Blazer Linha em fotografia demonstrativa de catálogo.",
+      "variants": [
+        {
+          "path": "assets/products/product-10-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 8152
+        },
+        {
+          "path": "assets/products/product-10-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 15550
+        },
+        {
+          "path": "assets/products/product-10-1024.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 23796
+        }
+      ],
+      "source": "Imagem gerada por IA com a ferramenta integrada de geração de imagens nesta conversa.",
+      "date": "2026-10-01",
+      "objectPosition": "50% 50%",
+      "relatedProductIds": [
+        "product-10"
+      ],
+      "demonstrative": true,
+      "originalSha256": "66d7a797a7c5c6544d5cf01a49f01876a6860b4afeaa8da7315ad969710d7176"
+    },
+    {
+      "id": "product-11",
+      "role": "product",
+      "path": "assets/products/product-11.webp",
+      "original": "assets/originals/product-11.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 46010,
+      "alt": "Calça Ritmo em fotografia demonstrativa de catálogo.",
+      "variants": [
+        {
+          "path": "assets/products/product-11-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 7446
+        },
+        {
+          "path": "assets/products/product-11-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 16412
+        },
+        {
+          "path": "assets/products/product-11-1024.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 31782
+        }
+      ],
+      "source": "Imagem gerada por IA com a ferramenta integrada de geração de imagens nesta conversa.",
+      "date": "2026-10-01",
+      "objectPosition": "50% 50%",
+      "relatedProductIds": [
+        "product-11"
+      ],
+      "demonstrative": true,
+      "originalSha256": "b2d74e93f2bec75ed828afe253931f541a0d446a3fa2dfcc190273701183580e"
+    },
+    {
+      "id": "product-12",
+      "role": "product",
+      "path": "assets/products/product-12.webp",
+      "original": "assets/originals/product-12.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 64564,
+      "alt": "Saia Passo em fotografia demonstrativa de catálogo.",
+      "variants": [
+        {
+          "path": "assets/products/product-12-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 8338
+        },
+        {
+          "path": "assets/products/product-12-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 22290
+        },
+        {
+          "path": "assets/products/product-12-1024.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 45898
+        }
+      ],
+      "source": "Imagem gerada por IA com a ferramenta integrada de geração de imagens nesta conversa.",
+      "date": "2026-10-01",
+      "objectPosition": "50% 50%",
+      "relatedProductIds": [
+        "product-12"
+      ],
+      "demonstrative": true,
+      "originalSha256": "9a0df42aff0d53e473b4efe952bf4867398490d83001711cf97516f6767e5177"
+    },
+    {
+      "id": "detail-tailoring",
+      "role": "detail",
+      "path": "assets/details/detail-tailoring.webp",
+      "original": "assets/originals/detail-tailoring.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 186764,
+      "alt": "Detalhe de lapela, costura e botão de blazer claro.",
+      "variants": [
+        {
+          "path": "assets/details/detail-tailoring-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 16988
+        },
+        {
+          "path": "assets/details/detail-tailoring-768.webp",
+          "width": 768,
+          "height": 512,
+          "bytes": 50836
+        },
+        {
+          "path": "assets/details/detail-tailoring-1536.webp",
+          "width": 1536,
+          "height": 1024,
+          "bytes": 152910
+        }
+      ],
+      "source": "Imagem gerada por IA com a ferramenta integrada de geração de imagens nesta conversa.",
+      "date": "2026-10-01",
+      "objectPosition": "50% 50%",
+      "relatedProductIds": [
+        "product-10"
+      ],
+      "demonstrative": true,
+      "originalSha256": "fc35ec55b3addef5c05dc01b3c9b3024df1094ae541c1df9960157c9c9c6cb3e"
+    },
+    {
+      "id": "detail-denim",
+      "role": "detail",
+      "path": "assets/details/detail-denim.webp",
+      "original": "assets/originals/detail-denim.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 494386,
+      "alt": "Detalhe de bolso e costura de jeans azul.",
+      "variants": [
+        {
+          "path": "assets/details/detail-denim-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 64442
+        },
+        {
+          "path": "assets/details/detail-denim-768.webp",
+          "width": 768,
+          "height": 512,
+          "bytes": 149976
+        },
+        {
+          "path": "assets/details/detail-denim-1536.webp",
+          "width": 1536,
+          "height": 1024,
+          "bytes": 429220
+        }
+      ],
+      "source": "Imagem gerada por IA com a ferramenta integrada de geração de imagens nesta conversa.",
+      "date": "2026-10-01",
+      "objectPosition": "50% 50%",
+      "relatedProductIds": [
+        "product-04",
+        "product-05"
+      ],
+      "demonstrative": true,
+      "originalSha256": "442f52a96615a939c9391151bd678c1f41582e85cbf861fbe9d1d9782da2403a"
+    }
+  ]
+}

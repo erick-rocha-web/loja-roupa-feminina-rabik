@@ -1,0 +1,35 @@
+[
+  {
+    "id": "look-daily",
+    "title": "Dias leves",
+    "occasion": "daily",
+    "imageSrc": "assets/editorial/hero-look-a.webp",
+    "productIds": [
+      "product-03",
+      "product-04"
+    ],
+    "isDemonstrative": true
+  },
+  {
+    "id": "look-work",
+    "title": "Do trabalho ao encontro",
+    "occasion": "work",
+    "imageSrc": "assets/editorial/occasion-work.webp",
+    "productIds": [
+      "product-02",
+      "product-10",
+      "product-11"
+    ],
+    "isDemonstrative": true
+  },
+  {
+    "id": "look-going-out",
+    "title": "Seu momento",
+    "occasion": "going-out",
+    "imageSrc": "assets/editorial/hero-look-b.webp",
+    "productIds": [
+      "product-09"
+    ],
+    "isDemonstrative": true
+  }
+]

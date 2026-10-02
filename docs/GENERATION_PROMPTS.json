@@ -1,0 +1,132 @@
+[
+  {
+    "id": "hero-look-a",
+    "tool": "built-in image generation",
+    "prompt": "Use case: photorealistic-natural. Asset: landscape fashion editorial website hero, 3:2 composition. Create a realistic premium but approachable Brazilian women's fashion editorial photograph, NOT a collage and no web UI. An adult Brazilian woman around 30, medium olive skin, natural dark brown shoulder-length hair, wears an unbranded ivory long-sleeve relaxed cotton button-up shirt loosely tucked into medium blue straight-leg jeans and simple taupe flats. Full body including shoes, body on the right half with at least 40 percent calm negative space on the left for webpage typography. Modern warm ivory plaster architecture, pale stone floor, soft side window light, quiet confident natural standing pose, neutral makeup, real texture and realistic human anatomy. Garment designs must be simple and reusable as later individual catalog photographs. Warm off-white, denim blue and subtle sage palette, contemporary fashion magazine art direction, natural photography, clothing easy to see. One woman, no furniture clutter, no logos, no text, no watermark, no frames, no extra people.",
+    "referenceAssetIds": [],
+    "transparentBackground": false
+  },
+  {
+    "id": "hero-look-b",
+    "tool": "built-in image generation",
+    "prompt": "Use case: photorealistic-natural. Asset: portrait secondary fashion editorial website photograph, 2:3. A realistic contemporary Brazilian women's fashion editorial, premium but accessible. One adult Black Brazilian woman around 30 with natural dark curly hair and a curvy average-build body, wearing an unbranded dusty rose relaxed sleeveless vest with V neckline and two simple tonal buttons, matching high-waisted straight-leg dusty rose trousers and subtle neutral flats. A warm ivory plaster architectural studio, pale stone floor, soft side window light, clean background. Full body including shoes with generous breathing room, natural weight shift, beautiful realistic garment drape and skin texture, clothing in focus. Magazine art direction, calm confident expression, simple tailoring, no bag needed. Garments usable as a matching two-piece set in later catalog photographs. No writing, logo, watermark, collage, web UI, extra people, distracting jewelry or props.",
+    "referenceAssetIds": [],
+    "transparentBackground": false
+  },
+  {
+    "id": "occasion-work",
+    "tool": "built-in image generation",
+    "prompt": "Use case: photorealistic-natural. Asset: landscape women's fashion work-to-evening editorial image, 3:2. One clearly adult Brazilian woman around 35, brown skin and short natural dark curls, wearing a cream single-breasted blazer with two tonal buttons over a burgundy ribbed scoop-neck short-sleeve top and warm stone-beige high-waisted tailored wide-leg trousers. Simple neutral shoes. Full outfit visible in a warm ivory architectural passage with a subtle sage-painted recess, natural side daylight, no office clichés, realistic fabric and anatomy, approachable contemporary Brazilian fashion. Standing casually in a slight walking pose, outfit readable, generous negative space, sophisticated fashion magazine photography. Unbranded garment designs consistent with a cream blazer, burgundy top and beige tailored trousers that can be photographed as individual products. No text, logos, watermarks, collage, UI, extra people or busy props.",
+    "referenceAssetIds": [],
+    "transparentBackground": false
+  },
+  {
+    "id": "occasion-weekend",
+    "tool": "built-in image generation",
+    "prompt": "Use case: photorealistic-natural. Asset: portrait women's fashion weekend editorial image, 2:3. One adult Brazilian woman around 30 with fair freckled skin, natural shoulder-length wavy auburn hair and a curvy body, wearing an unbranded sage-green midi dress, simple sleeveless round-neck bodice, gently defined waist and A-line skirt, simple tan flat sandals. Full body including feet and all of the dress. A minimal warm cream urban courtyard, soft natural afternoon light, calm background, natural relaxed pose and understated makeup, realistic skin and fabric texture, fashion magazine framing. The dress is a real-looking simple garment suitable for a later catalog photo. Modern accessible everyday women's fashion, no luxury cliché, no writing, logo, watermark, collage, UI, extra people or distracting props.",
+    "referenceAssetIds": [],
+    "transparentBackground": false
+  },
+  {
+    "id": "product-01",
+    "tool": "built-in image generation",
+    "prompt": "Use case: product-mockup. Asset: individual women's clothing catalog product photograph, portrait 2:3 composition. Photorealistic e-commerce garment photography, single seamless warm ivory paper background (#F7F3EC), soft even side light, gentle natural grounding shadow, true material detail. Show the FULL garment with generous margin around every edge, straight-on front view, clean invisible-mannequin presentation, no visible mannequin, no model, no person, no hands, no hanger, no text, logo, tag, watermark, framing, collage or decorative props. Do not crop sleeves, waistband or hems. Color must be realistic, softly warm and not oversaturated. Primary subject: an ivory off-white women's crew-neck cotton T-shirt, relaxed fit, short sleeves, straight hem, no design, no logo.",
+    "referenceAssetIds": [],
+    "transparentBackground": false
+  },
+  {
+    "id": "product-02",
+    "tool": "built-in image generation",
+    "prompt": "Use case: product-mockup. Asset: individual women's clothing catalog product photograph, portrait 2:3 composition. Photorealistic e-commerce garment photography, single seamless warm ivory paper background (#F7F3EC), soft even side light, gentle natural grounding shadow, true material detail. Show the FULL garment with generous margin around every edge, straight-on front view, clean invisible-mannequin presentation, no visible mannequin, no model, no person, no hands, no hanger, no text, logo, tag, watermark, framing, collage or decorative props. Do not crop sleeves, waistband or hems. Color must be realistic, softly warm and not oversaturated. Primary subject: a burgundy wine-red women's ribbed short-sleeve top with a wide softly scooped round neck, fitted but wearable shape, plain straight hem, no logo.",
+    "referenceAssetIds": [],
+    "transparentBackground": false
+  },
+  {
+    "id": "product-03",
+    "tool": "built-in image generation",
+    "prompt": "Use case: product-mockup. Asset: individual women's clothing catalog product photograph, portrait 2:3 composition. Photorealistic e-commerce garment photography, single seamless warm ivory paper background (#F7F3EC), soft even side light, gentle natural grounding shadow, true material detail. Show the FULL garment with generous margin around every edge, straight-on front view, clean invisible-mannequin presentation, no visible mannequin, no model, no person, no hands, no hanger, no text, logo, tag, watermark, framing, collage or decorative props. Do not crop sleeves, waistband or hems. Color must be realistic, softly warm and not oversaturated. Primary subject: an ivory cream women's relaxed long-sleeve cotton button-up shirt, simple pointed collar, small ivory buttons, subtle cuffs, curved hem, no pockets or branding; it should match the ivory shirt from a modern denim outfit. Input image 1 is a wardrobe design reference only: match the relevant shirt or jeans worn by the woman, but create an entirely NEW individual catalog photograph without the woman or scenery. Preserve the garment's design and color.",
+    "referenceAssetIds": [
+      "hero-look-a"
+    ],
+    "transparentBackground": false
+  },
+  {
+    "id": "product-04",
+    "tool": "built-in image generation",
+    "prompt": "Use case: product-mockup. Asset: individual women's clothing catalog product photograph, portrait 2:3 composition. Photorealistic e-commerce garment photography, single seamless warm ivory paper background (#F7F3EC), soft even side light, gentle natural grounding shadow, true material detail. Show the FULL garment with generous margin around every edge, straight-on front view, clean invisible-mannequin presentation, no visible mannequin, no model, no person, no hands, no hanger, no text, logo, tag, watermark, framing, collage or decorative props. Do not crop sleeves, waistband or hems. Color must be realistic, softly warm and not oversaturated. Primary subject: a pair of medium blue women's straight-leg jeans, high waist, classic five pockets, simple metal waist button, medium natural wash without rips, front view with waistband and both whole leg hems fully visible, no logo. Input image 1 is a wardrobe design reference only: match the relevant shirt or jeans worn by the woman, but create an entirely NEW individual catalog photograph without the woman or scenery. Preserve the garment's design and color.",
+    "referenceAssetIds": [
+      "hero-look-a"
+    ],
+    "transparentBackground": false
+  },
+  {
+    "id": "product-05",
+    "tool": "built-in image generation",
+    "prompt": "Use case: product-mockup. Asset: individual women's clothing catalog product photograph, portrait 2:3 composition. Photorealistic e-commerce garment photography, single seamless warm ivory paper background (#F7F3EC), soft even side light, gentle natural grounding shadow, true material detail. Show the FULL garment with generous margin around every edge, straight-on front view, clean invisible-mannequin presentation, no visible mannequin, no model, no person, no hands, no hanger, no text, logo, tag, watermark, framing, collage or decorative props. Do not crop sleeves, waistband or hems. Color must be realistic, softly warm and not oversaturated. Primary subject: a pair of light blue women's wide-leg jeans, high waist, classic five pockets, subtle natural wash, clean unfrayed hems, both entire legs and waistband visible, no logo or distressing.",
+    "referenceAssetIds": [],
+    "transparentBackground": false
+  },
+  {
+    "id": "product-06",
+    "tool": "built-in image generation",
+    "prompt": "Use case: product-mockup. Asset: individual women's clothing catalog product photograph, portrait 2:3 composition. Photorealistic e-commerce garment photography, single seamless warm ivory paper background (#F7F3EC), soft even side light, gentle natural grounding shadow, true material detail. Show the FULL garment with generous margin around every edge, straight-on front view, clean invisible-mannequin presentation, no visible mannequin, no model, no person, no hands, no hanger, no text, logo, tag, watermark, framing, collage or decorative props. Do not crop sleeves, waistband or hems. Color must be realistic, softly warm and not oversaturated. Primary subject: a sage-green women's midi dress, sleeveless round-neck bodice, simple gently defined waist seam, flowing A-line skirt with plain midi hem, no prints or logo; a simple dress matching a sage-green fashion editorial outfit.",
+    "referenceAssetIds": [],
+    "transparentBackground": false
+  },
+  {
+    "id": "product-07",
+    "tool": "built-in image generation",
+    "prompt": "Use case: product-mockup. Asset: individual women's clothing catalog product photograph, portrait 2:3 composition. Photorealistic e-commerce garment photography, single seamless warm ivory paper background (#F7F3EC), soft even side light, gentle natural grounding shadow, true material detail. Show the FULL garment with generous margin around every edge, straight-on front view, clean invisible-mannequin presentation, no visible mannequin, no model, no person, no hands, no hanger, no text, logo, tag, watermark, framing, collage or decorative props. Do not crop sleeves, waistband or hems. Color must be realistic, softly warm and not oversaturated. Primary subject: a burgundy wine-red women's casual knee-length dress, short relaxed sleeves, modest round neck, loose slightly A-line silhouette, simple vertical drape, plain hem, no print or logo.",
+    "referenceAssetIds": [],
+    "transparentBackground": false
+  },
+  {
+    "id": "product-08",
+    "tool": "built-in image generation",
+    "prompt": "Use case: product-mockup. Asset: individual women's clothing catalog product photograph, portrait 2:3 composition. Photorealistic e-commerce garment photography, single seamless warm ivory paper background (#F7F3EC), soft even side light, gentle natural grounding shadow, true material detail. Show the FULL garment with generous margin around every edge, straight-on front view, clean invisible-mannequin presentation, no visible mannequin, no model, no person, no hands, no hanger, no text, logo, tag, watermark, framing, collage or decorative props. Do not crop sleeves, waistband or hems. Color must be realistic, softly warm and not oversaturated. Primary subject: a complete sand-beige women's two-piece matching set: a loose short-sleeve button-up camp-collar blouse and high-waisted straight-leg long trousers, simple linen-look texture and tonal buttons. Present BOTH whole garments cleanly on one seamless background, blouse above the trousers with a clear small gap, not a collage and no framing, exactly one set, no logo.",
+    "referenceAssetIds": [],
+    "transparentBackground": false
+  },
+  {
+    "id": "product-09",
+    "tool": "built-in image generation",
+    "prompt": "Use case: product-mockup. Asset: individual women's clothing catalog product photograph, portrait 2:3 composition. Photorealistic e-commerce garment photography, single seamless warm ivory paper background (#F7F3EC), soft even side light, gentle natural grounding shadow, true material detail. Show the FULL garment with generous margin around every edge, straight-on front view, clean invisible-mannequin presentation, no visible mannequin, no model, no person, no hands, no hanger, no text, logo, tag, watermark, framing, collage or decorative props. Do not crop sleeves, waistband or hems. Color must be realistic, softly warm and not oversaturated. Primary subject: a complete dusty-rose women's two-piece tailored matching set: a sleeveless relaxed vest with V neckline and two simple tonal buttons, and high-waisted straight-leg long trousers. BOTH complete garments on one seamless background, vest above trousers with a small gap, exactly one set, simple refined matte fabric, no branding; matches a dusty-rose vest and trouser editorial outfit.",
+    "referenceAssetIds": [],
+    "transparentBackground": false
+  },
+  {
+    "id": "product-10",
+    "tool": "built-in image generation",
+    "prompt": "Use case: product-mockup. Asset: individual women's clothing catalog product photograph, portrait 2:3 composition. Photorealistic e-commerce garment photography, single seamless warm ivory paper background (#F7F3EC), soft even side light, gentle natural grounding shadow, true material detail. Show the FULL garment with generous margin around every edge, straight-on front view, clean invisible-mannequin presentation, no visible mannequin, no model, no person, no hands, no hanger, no text, logo, tag, watermark, framing, collage or decorative props. Do not crop sleeves, waistband or hems. Color must be realistic, softly warm and not oversaturated. Primary subject: a cream ivory women's relaxed single-breasted tailored blazer, notched lapel, two tonal buttons, two understated flap pockets, full long sleeves and whole hem visible, no branding or print; matching a cream blazer in a contemporary work outfit.",
+    "referenceAssetIds": [],
+    "transparentBackground": false
+  },
+  {
+    "id": "product-11",
+    "tool": "built-in image generation",
+    "prompt": "Use case: product-mockup. Asset: individual women's clothing catalog product photograph, portrait 2:3 composition. Photorealistic e-commerce garment photography, single seamless warm ivory paper background (#F7F3EC), soft even side light, gentle natural grounding shadow, true material detail. Show the FULL garment with generous margin around every edge, straight-on front view, clean invisible-mannequin presentation, no visible mannequin, no model, no person, no hands, no hanger, no text, logo, tag, watermark, framing, collage or decorative props. Do not crop sleeves, waistband or hems. Color must be realistic, softly warm and not oversaturated. Primary subject: a pair of warm sand stone-beige women's high-waisted wide-leg tailored trousers, subtle front pleats, simple waistband and concealed closure, long clean legs with entire waistband and both hems visible, matte refined fabric, no logo.",
+    "referenceAssetIds": [],
+    "transparentBackground": false
+  },
+  {
+    "id": "product-12",
+    "tool": "built-in image generation",
+    "prompt": "Use case: product-mockup. Asset: individual women's clothing catalog product photograph, portrait 2:3 composition. Photorealistic e-commerce garment photography, single seamless warm ivory paper background (#F7F3EC), soft even side light, gentle natural grounding shadow, true material detail. Show the FULL garment with generous margin around every edge, straight-on front view, clean invisible-mannequin presentation, no visible mannequin, no model, no person, no hands, no hanger, no text, logo, tag, watermark, framing, collage or decorative props. Do not crop sleeves, waistband or hems. Color must be realistic, softly warm and not oversaturated. Primary subject: a chocolate-brown women's midi A-line skirt, simple high waistband, gently flared elegant shape, clean midi hem, matte soft fabric, no prints, slit or branding.",
+    "referenceAssetIds": [],
+    "transparentBackground": false
+  },
+  {
+    "id": "detail-tailoring",
+    "tool": "built-in image generation",
+    "prompt": "Use case: product-mockup. Asset: macro fashion fabric detail photo, landscape 3:2. Close-up of the notched lapel and a single matching cream button on an unbranded cream ivory women's blazer, tactile matte woven fabric, natural precise stitching, softly lit from a side window, shallow depth of field with the central seam sharply visible. Warm paper-ivory background, refined accessible fashion catalog style, realistic material texture. This is an illustrative detail, not a textile certification. No text, logos, badges, labels, hands, watermark or collage.",
+    "referenceAssetIds": [],
+    "transparentBackground": false
+  },
+  {
+    "id": "detail-denim",
+    "tool": "built-in image generation",
+    "prompt": "Use case: product-mockup. Asset: macro denim detail photo, landscape 3:2. Close-up of the front pocket edge, small brass rivet and clean tan stitching on medium-blue unbranded women's jeans, natural cotton denim weave visible, soft side daylight, shallow depth of field focused on the stitched pocket curve, contemporary editorial catalog photography, quiet blue and warm ivory palette. No text, labels, logos, hands, watermark, collage or certification marks.",
+    "referenceAssetIds": [],
+    "transparentBackground": false
+  }
+]

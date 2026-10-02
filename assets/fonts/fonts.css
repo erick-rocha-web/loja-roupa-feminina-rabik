@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Fraunces';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('./Fraunces-variable.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('./Inter-variable.woff2') format('woff2');
+}
+
+:root {
+  --font-editorial: 'Fraunces', Georgia, serif;
+  --font-ui: 'Inter', system-ui, sans-serif;
+  --color-paper: #f7f3ec;
+  --color-surface: #fffdfa;
+  --color-ink: #211d1f;
+  --color-muted: #625b5e;
+  --color-accent: #a72f4c;
+  --color-rose: #e7c6cd;
+  --color-sage: #dce2d5;
+  --color-border: #d8d0cc;
+}
+

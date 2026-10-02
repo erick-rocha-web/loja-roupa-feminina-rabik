@@ -1,0 +1,377 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>VÉRIA · Demonstração de vitrine de moda feminina · Rabik</title>
+    <meta
+      name="description"
+      content="VÉRIA é uma marca fictícia. Demonstração de vitrine de moda feminina criada pela Rabik, com catálogo, looks e seleção locais, sem vendas."
+    />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="theme-color" content="#f7f3ec" />
+    <meta property="og:title" content="VÉRIA · Demonstração de site de moda feminina · Rabik" />
+    <meta property="og:description" content="Marca fictícia. Vitrine demonstrativa criada pela Rabik, sem vendas reais." />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="assets/brand/social-card.png" />
+    <link rel="icon" href="./assets/brand/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="./assets/brand/favicon-32.png" sizes="32x32" type="image/png" />
+    <link rel="apple-touch-icon" href="./assets/brand/apple-touch-icon.png" />
+    <script>
+      // Marca cedo que a animação de abertura pode rodar, evitando um quadro estático antes dela.
+      if (!matchMedia('(prefers-reduced-motion: reduce)').matches) document.documentElement.classList.add('motion-ok');
+    </script>
+  </head>
+  <body>
+    <a class="skip-link" href="#colecao">Pular para a coleção</a>
+
+    <p class="demo-bar">
+      <span><strong>Marca fictícia · demonstração de site</strong></span>
+      <span class="demo-bar__extra">Criado pela Rabik. Não há vendas.</span>
+    </p>
+
+    <header class="site-header" id="topo">
+      <div class="site-header__inner">
+        <a class="site-header__brand" href="#inicio" aria-label="VÉRIA, voltar ao início">
+          <img src="./assets/brand/wordmark-ink.svg" alt="" width="315" height="132" />
+        </a>
+        <nav class="site-nav" id="site-nav" aria-label="Principal">
+          <ul>
+            <li><a href="#colecao">Coleção</a></li>
+            <li><a href="#looks">Looks</a></li>
+            <li><a href="#sobre">Sobre</a></li>
+          </ul>
+          <p class="site-nav__notice">Marca fictícia · demonstração de site</p>
+        </nav>
+        <div class="site-header__actions">
+          <button class="icon-btn" type="button" data-action="search" aria-label="Buscar no catálogo">
+            <svg class="icon" aria-hidden="true" focusable="false"><use href="#icon-search"></use></svg>
+          </button>
+          <button class="icon-btn" type="button" data-action="open-drawer" data-tab="favorites" aria-label="Favoritos, 0 peças">
+            <svg class="icon" aria-hidden="true" focusable="false"><use href="#icon-heart"></use></svg>
+            <span class="count" data-count="favorites" hidden>0</span>
+          </button>
+          <button class="icon-btn" type="button" data-action="open-drawer" data-tab="selection" aria-label="Seleção, 0 peças">
+            <svg class="icon" aria-hidden="true" focusable="false"><use href="#icon-selection"></use></svg>
+            <span class="count" data-count="selection" hidden>0</span>
+          </button>
+          <button class="icon-btn menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Abrir menu">
+            <svg class="icon" aria-hidden="true" focusable="false"><use href="#icon-menu"></use></svg>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero" id="inicio" aria-labelledby="hero-title">
+        <div class="hero__stage">
+          <div class="hero__copy">
+            <img class="hero__mark" src="./assets/brand/wordmark-accent.svg" alt="" width="315" height="132" />
+            <p class="eyebrow hero__eyebrow">Coleção demonstrativa · casual, jeans e alfaiataria</p>
+            <h1 id="hero-title">
+              <span class="hero__line"><span>Vista o seu</span></span>
+              <span class="hero__line"><span>momento.</span></span>
+            </h1>
+            <p class="hero__lead">Peças para combinar de novo, do seu jeito.</p>
+            <div class="hero__ctas">
+              <a class="btn btn--primary" href="#colecao">
+                Explorar a coleção
+                <svg class="icon" aria-hidden="true" focusable="false"><use href="#icon-arrow-right"></use></svg>
+              </a>
+              <a class="btn btn--ghost" href="#looks">Ver os looks</a>
+            </div>
+            <p class="hero__cue" aria-hidden="true">Role para ver as peças do look</p>
+          </div>
+
+          <figure class="hero__main">
+            <div class="hero__main-frame">
+              <img
+                src="./assets/editorial/hero-look-a-1536.webp"
+                srcset="./assets/editorial/hero-look-a-480.webp 480w, ./assets/editorial/hero-look-a-768.webp 768w, ./assets/editorial/hero-look-a-1536.webp 1536w"
+                sizes="(min-width: 1024px) 62vw, 100vw"
+                width="1536"
+                height="1024"
+                fetchpriority="high"
+                decoding="async"
+                alt="Mulher adulta de camisa off-white com mangas dobradas e jeans azul reto, em pé junto a uma parede clara com sombras de folhas."
+              />
+            </div>
+          </figure>
+
+          <figure class="hero__second">
+            <div class="hero__second-frame">
+              <img
+                src="./assets/editorial/hero-look-b-768.webp"
+                srcset="./assets/editorial/hero-look-b-480.webp 480w, ./assets/editorial/hero-look-b-768.webp 768w"
+                sizes="(min-width: 1024px) 18vw, 42vw"
+                width="1024"
+                height="1536"
+                decoding="async"
+                alt="Mulher adulta de cabelo cacheado vestindo colete de botões e calça reta em rosa seco, em salão claro com arco."
+              />
+            </div>
+            <button class="hero__tag" type="button" data-open-product="product-09">Conjunto Aurora</button>
+          </figure>
+
+          <div class="hero__pieces">
+            <p class="hero__pieces-title">Peças do look</p>
+            <ul class="hero__piece-list" data-hero-pieces></ul>
+          </div>
+
+          <a class="hero__handoff" href="#colecao">
+            <span class="hero__handoff-text">Continue para a coleção <span data-hero-count>· 12 peças</span></span>
+            <svg class="icon" aria-hidden="true" focusable="false"><use href="#icon-chevron-down"></use></svg>
+          </a>
+        </div>
+      </section>
+
+      <section class="catalog section" id="colecao" aria-labelledby="catalog-title">
+        <div class="container">
+          <div class="catalog__head">
+            <div>
+              <p class="eyebrow">Coleção</p>
+              <h2 id="catalog-title" class="section-title">Sua próxima combinação começa aqui.</h2>
+            </div>
+            <p class="catalog__notice">
+              <svg class="icon" aria-hidden="true" focusable="false"><use href="#icon-check"></use></svg>
+              Peças e preços ilustrativos. Não há vendas nesta demonstração.
+            </p>
+          </div>
+
+          <form class="filters" role="search" aria-label="Filtrar catálogo" data-filters>
+            <div class="filters__search">
+              <label for="catalog-search" class="visually-hidden">Buscar por nome ou categoria</label>
+              <svg class="icon" aria-hidden="true" focusable="false"><use href="#icon-search"></use></svg>
+              <input id="catalog-search" name="query" type="search" placeholder="Buscar por nome ou categoria" autocomplete="off" />
+            </div>
+            <fieldset class="filters__group">
+              <legend>Categoria</legend>
+              <div class="chips" data-filter="category"></div>
+            </fieldset>
+            <fieldset class="filters__group">
+              <legend>Ocasião</legend>
+              <div class="chips" data-filter="occasion"></div>
+            </fieldset>
+            <div class="filters__row">
+              <label class="filters__select">
+                <span>Tamanho</span>
+                <select name="size" data-filter="size"></select>
+                <svg class="icon" aria-hidden="true" focusable="false"><use href="#icon-chevron-down"></use></svg>
+              </label>
+              <p class="filters__count" aria-live="polite" data-count-label>12 peças</p>
+              <button class="btn btn--text" type="reset" data-clear hidden>Limpar filtros</button>
+            </div>
+          </form>
+
+          <ul class="product-grid" data-grid aria-labelledby="catalog-title"></ul>
+          <div class="empty" data-empty hidden>
+            <p class="empty__title">Nenhuma peça com esses filtros.</p>
+            <p>Os produtos da demonstração não têm todas as combinações de categoria, ocasião e tamanho.</p>
+            <button class="btn btn--primary" type="button" data-clear-empty>Limpar filtros</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="occasions section" id="ocasioes" aria-labelledby="occasions-title">
+        <div class="container">
+          <div class="occasions__intro" data-reveal>
+            <p class="eyebrow">Ocasiões</p>
+            <h2 id="occasions-title" class="section-title">As mesmas peças, em três ritmos.</h2>
+          </div>
+        </div>
+
+        <article class="occ occ--light container" aria-labelledby="occ-light-title" data-occ-light>
+          <div class="occ--light__text" data-text>
+            <h3 id="occ-light-title" class="occ__title">Dias leves</h3>
+            <p>Camiseta clara, jeans amplo e nada para ajustar o dia inteiro. Básicos que voltam em outras combinações.</p>
+            <button class="btn btn--line" type="button" data-occasion="daily">
+              Ver peças do dia a dia
+              <svg class="icon" aria-hidden="true" focusable="false"><use href="#icon-arrow-right"></use></svg>
+            </button>
+          </div>
+          <div class="occ--light__cutouts" aria-hidden="true">
+            <img data-mask="up" class="cutout cutout--a" src="./assets/products/product-01-480.webp" srcset="./assets/products/product-01-480.webp 480w, ./assets/products/product-01-768.webp 768w" sizes="(min-width: 1024px) 22vw, 44vw" width="1024" height="1536" alt="" loading="lazy" decoding="async" />
+            <img data-mask="up" style="--mask-delay: 160ms" class="cutout cutout--b" src="./assets/products/product-05-480.webp" srcset="./assets/products/product-05-480.webp 480w, ./assets/products/product-05-768.webp 768w" sizes="(min-width: 1024px) 22vw, 44vw" width="1024" height="1536" alt="" loading="lazy" decoding="async" />
+          </div>
+        </article>
+
+        <article class="occ occ--work" aria-labelledby="occ-work-title" data-occ-work>
+          <div class="occ--work__frame">
+            <img
+              src="./assets/editorial/occasion-work-768.webp"
+              srcset="./assets/editorial/occasion-work-480.webp 480w, ./assets/editorial/occasion-work-768.webp 768w, ./assets/editorial/occasion-work-1536.webp 1536w"
+              sizes="100vw"
+              width="1536"
+              height="1024"
+              loading="lazy"
+              decoding="async"
+              alt="Mulher adulta caminhando em galeria clara com blazer creme, blusa vinho e calça bege ampla com pregas."
+            />
+          </div>
+          <div class="occ--work__panel" data-text>
+            <h3 id="occ-work-title" class="occ__title">Do trabalho ao encontro</h3>
+            <p>Blazer creme, blusa vinho e calça de pregas. Tira o blazer no fim da tarde e o look muda de lugar.</p>
+            <button class="btn btn--primary" type="button" data-occasion="work">
+              Ver peças para o trabalho
+              <svg class="icon" aria-hidden="true" focusable="false"><use href="#icon-arrow-right"></use></svg>
+            </button>
+          </div>
+        </article>
+
+        <article class="occ occ--weekend container" aria-labelledby="occ-weekend-title" data-occ-weekend>
+          <div class="occ--weekend__text" data-text>
+            <h3 id="occ-weekend-title" class="occ__title">Fim de semana</h3>
+            <p>Vestido midi sálvia, sandália rasteira e um passeio sem pressa. Para almoço, feira ou fim de tarde.</p>
+            <button class="btn btn--line" type="button" data-occasion="going-out">
+              Ver peças para sair
+              <svg class="icon" aria-hidden="true" focusable="false"><use href="#icon-arrow-right"></use></svg>
+            </button>
+          </div>
+          <figure class="occ--weekend__tall" data-mask="down">
+            <img
+              src="./assets/editorial/occasion-weekend-768.webp"
+              srcset="./assets/editorial/occasion-weekend-480.webp 480w, ./assets/editorial/occasion-weekend-768.webp 768w, ./assets/editorial/occasion-weekend-1024.webp 1024w"
+              sizes="(min-width: 1024px) 34vw, 60vw"
+              width="1024"
+              height="1536"
+              loading="lazy"
+              decoding="async"
+              alt="Mulher adulta ruiva sorrindo em pátio de pedras com vestido midi verde-sálvia sem mangas e sandálias rasteiras."
+            />
+          </figure>
+          <figure class="occ--weekend__small" data-mask="left" style="--mask-delay: 220ms">
+            <img
+              src="./assets/products/product-06-480.webp"
+              srcset="./assets/products/product-06-480.webp 480w, ./assets/products/product-06-768.webp 768w"
+              sizes="(min-width: 1024px) 18vw, 36vw"
+              width="1024"
+              height="1536"
+              loading="lazy"
+              decoding="async"
+              alt="Vestido midi verde-sálvia sem mangas em fotografia de catálogo."
+            />
+            <figcaption>Vestido Midi Sálvia</figcaption>
+          </figure>
+        </article>
+      </section>
+
+      <section class="looks section" id="looks" aria-labelledby="looks-title">
+        <div class="container">
+          <div class="looks__head" data-reveal>
+            <p class="eyebrow">Looks combináveis</p>
+            <h2 id="looks-title" class="section-title">Troque a combinação, veja as peças.</h2>
+          </div>
+          <div class="looks__body" data-looks></div>
+        </div>
+      </section>
+
+      <section class="details section" id="detalhes" aria-labelledby="details-title">
+        <div class="container details__grid">
+          <div class="details__text">
+            <p class="eyebrow">De perto</p>
+            <h2 id="details-title" class="section-title">Lapela, pesponto e bolso.</h2>
+            <p>Uma vitrine própria pode mostrar o acabamento antes da conversa com a loja. Os closes são ilustrativos e não comprovam composição de tecido.</p>
+            <div class="details__links">
+              <button class="btn btn--line" type="button" data-open-product="product-10">Ver o Blazer Creme</button>
+              <button class="btn btn--line" type="button" data-open-product="product-04">Ver o Jeans Reto</button>
+            </div>
+          </div>
+          <figure class="details__photo details__photo--tailoring" data-parallax>
+            <img
+              src="./assets/details/detail-tailoring-768.webp"
+              srcset="./assets/details/detail-tailoring-480.webp 480w, ./assets/details/detail-tailoring-768.webp 768w, ./assets/details/detail-tailoring-1536.webp 1536w"
+              sizes="(min-width: 1024px) 40vw, 100vw"
+              width="1536"
+              height="1024"
+              loading="lazy"
+              decoding="async"
+              alt="Close ilustrativo de lapela, pesponto e botão de um blazer creme."
+            />
+            <figcaption>Lapela e pesponto</figcaption>
+          </figure>
+          <figure class="details__photo details__photo--denim" data-parallax>
+            <img
+              src="./assets/details/detail-denim-768.webp"
+              srcset="./assets/details/detail-denim-480.webp 480w, ./assets/details/detail-denim-768.webp 768w"
+              sizes="(min-width: 1024px) 26vw, 70vw"
+              width="1536"
+              height="1024"
+              loading="lazy"
+              decoding="async"
+              alt="Close ilustrativo de bolso de jeans azul com pesponto dourado e rebite."
+            />
+            <figcaption>Bolso e rebite</figcaption>
+          </figure>
+        </div>
+      </section>
+
+      <section class="about section" id="sobre" aria-labelledby="about-title" data-tint>
+        <div class="container about__grid">
+          <div class="about__text" data-reveal>
+            <p class="eyebrow">Sobre esta vitrine</p>
+            <h2 id="about-title" class="section-title">A VÉRIA não existe. A vitrine, sim.</h2>
+            <p>VÉRIA é uma marca fictícia criada pela Rabik para demonstrar uma vitrine de moda feminina com curadoria visual e navegação por peças. Fotografias, nomes, tamanhos e preços são exemplos.</p>
+            <p>Favoritos e seleção ficam só neste navegador. Não representam pedido, pagamento, reserva ou estoque.</p>
+          </div>
+          <div class="faq">
+            <h3 class="faq__title">Perguntas frequentes</h3>
+            <details>
+              <summary>É uma loja real?<svg class="icon" aria-hidden="true" focusable="false"><use href="#icon-chevron-down"></use></svg></summary>
+              <p>Não. É uma demonstração criada pela Rabik.</p>
+            </details>
+            <details>
+              <summary>Posso comprar as peças?<svg class="icon" aria-hidden="true" focusable="false"><use href="#icon-chevron-down"></use></svg></summary>
+              <p>Não há vendas. Os produtos são exemplos.</p>
+            </details>
+            <details>
+              <summary>Esse tipo de site pode usar as fotos da minha loja?<svg class="icon" aria-hidden="true" focusable="false"><use href="#icon-chevron-down"></use></svg></summary>
+              <p>Sim, com materiais fornecidos ou autorizados pela loja.</p>
+            </details>
+            <details>
+              <summary>Posso ter categorias, tamanhos e looks diferentes?<svg class="icon" aria-hidden="true" focusable="false"><use href="#icon-chevron-down"></use></svg></summary>
+              <p>Sim. O projeto pode ser adaptado ao catálogo real.</p>
+            </details>
+            <details>
+              <summary>É necessário ter carrinho?<svg class="icon" aria-hidden="true" focusable="false"><use href="#icon-chevron-down"></use></svg></summary>
+              <p>Não. Uma vitrine pode organizar as peças antes de encaminhar uma consulta ao atendimento.</p>
+            </details>
+            <details>
+              <summary>Posso editar os produtos sozinho?<svg class="icon" aria-hidden="true" focusable="false"><use href="#icon-chevron-down"></use></svg></summary>
+              <p>É possível desenvolver essa opção. Painel e operação são definidos à parte, no orçamento.</p>
+            </details>
+          </div>
+        </div>
+      </section>
+
+      <section class="rabik" id="rabik" aria-labelledby="rabik-title">
+        <div class="container rabik__inner">
+          <p class="rabik__by" data-reveal>Uma demonstração da Rabik</p>
+          <h2 id="rabik-title" class="rabik__title" data-reveal="mask">Essa apresentação poderia ser da sua loja.</h2>
+          <p class="rabik__lead" data-reveal>A Rabik cria sites com a identidade, as peças e as informações do seu negócio.</p>
+          <a class="btn btn--paper" data-reveal data-rabik-whatsapp href="#" target="_blank" rel="noopener noreferrer">
+            Conversar sobre um site para minha loja
+            <svg class="icon" aria-hidden="true" focusable="false"><use href="#icon-arrow-right"></use></svg>
+          </a>
+          <p class="rabik__meta" data-reveal>WhatsApp da Rabik: <span data-rabik-phone></span>. O link abre só quando você clicar.</p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container site-footer__inner">
+        <img src="./assets/brand/symbol.svg" alt="" width="40" height="40" />
+        <p><strong>VÉRIA é uma marca fictícia.</strong> Fotografias geradas por IA para esta demonstração. Produtos, tamanhos, medidas e preços são exemplos.</p>
+        <p>Criado pela Rabik · <a data-rabik-email href="#"></a></p>
+        <p>Fontes Fraunces e Inter sob SIL Open Font License (<a href="./licenses/Fraunces-OFL.txt">Fraunces</a>, <a href="./licenses/Inter-OFL.txt">Inter</a>).</p>
+      </div>
+    </footer>
+
+    <dialog class="product-dialog" id="product-dialog" aria-labelledby="pd-title"></dialog>
+    <dialog class="drawer" id="drawer" aria-labelledby="drawer-title"></dialog>
+
+    <div id="live" class="visually-hidden" aria-live="polite"></div>
+    <div id="toast" class="toast" aria-hidden="true"></div>
+
+    <script type="module" src="./src/main.ts"></script>
+  </body>
+</html>
